@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! I am Fady 👋
 
-<!--
-**FadyIbenHabel/FadyIbenHabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me:
 
-Here are some ideas to get you started:
+- 🎓 Student in Computer Science and Business Analytics
+- 🤖 Passionate about AI, Machine Learning, and intelligent systems
+- 🔍 Exploring the intersections of Data Science and Finance
+- 🛠️ Building AI-powered tools with a focus on real-world applications
+- 🌐 Open to collaborations and challenges that blend innovation and impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+
+## 🔗 Connect with Me:
+[LinkedIn](https://www.linkedin.com/in/fady-iben-habel) | [GitHub](https://github.com/FadyIbenHabel)
