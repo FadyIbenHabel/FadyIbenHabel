@@ -1,34 +1,50 @@
-# 👋 Hi, I’m Fady Iben Habel
 
-## 🧠 About Me
+# Fady Iben Habel
 
-- 🎓 Master’s student in Computer Science at Université Claude Bernard Lyon 1  
-- 💼 Dual background in **Software & Data Engineering** and **Business Administration** 
-- 🤖 Passionate about **Artificial Intelligence** and **Data-Driven Decision Making**
-- 🧩 Interested in the intersection between **AI, Finance, and Business Strategy**
-- 🔬 Hands-on experience with **LLMs**, **NLP**, and **Generative AI** through research projects and internships
-- 🚀 I enjoy building end-to-end intelligent systems that **solve real-world problems**  
+**AI Engineer & Data Scientist**  
+*Generative AI · RAG · Agentic Systems · Applied Machine Learning*
 
-## ⚒️ Tech Stack
+[LinkedIn](https://www.linkedin.com/in/fady-iben-habel/) · [Email](mailto:fadyibenhabel@gmail.com) · [GitHub](https://github.com/FadyIbenHabel)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
-![SPARQL](https://img.shields.io/badge/-SPARQL-black?style=flat-square&logo=semanticweb)
-![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=apache-spark)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+---
 
-## 💡 Projects
+### I build AI systems that can show their work.
 
-- **CNRS-GPT** – AI chatbot analyzing academic research from Université Lyon 1 using vector search and LLMs  
-- **Air Quality Checker** – Flask web app for real-time AQI tracking and visualization  
-- **SpotFraud** – AI-based tool for fake news detection and data reliability scoring  
+I'm interested in the engineering behind useful AI: retrieving the right evidence, generating answers that can be checked, evaluating what actually improves, and turning prototypes into software people can use.
 
-## 🌐 Let's Connect!
+My background spans applied AI research, enterprise knowledge assistants, LLM-based patent retrieval, and independently built developer and analytics tools.
 
-[LinkedIn](https://www.linkedin.com/in/fady-iben-habel) | [GitHub](https://github.com/FadyIbenHabel) | 📧 fadyibenhabel@gmail.com
+### Featured projects
+
+**[Traceboard — Evidence-first debugging assistant](https://github.com/FadyIbenHabel/traceboard)**  
+Turns bug reports, code, and logs into inspectable debugging briefs. Uses source retrieval, ranked hypotheses, validated line-level citations, and concrete next-step checks. Includes a reproducible no-key demo and optional live LLM analysis.  
+`TypeScript` · `React` · `BM25` · `Groq` · `Cloudflare Workers`
+
+**[Footence — Football intelligence platform](https://github.com/FadyIbenHabel/footence-demo)**  
+An independent project exploring how football teams build attacks and create chances. Combines tactical benchmarks, event-level sequence exploration, and evidence-backed visualizations. The public repository includes a demo and screenshots; the analytical implementation is private.  
+`Python` · `FastAPI` · `React` · `TypeScript` · `Sports Analytics`
+
+**[CNRS-GPT V2 — Research document assistant](https://github.com/FadyIbenHabel/cnrsgpt-demo-v2)**  
+A RAG prototype for asking questions over academic PDFs, combining embedding-based retrieval, MongoDB Atlas Vector Search, and LLM-generated answers.  
+`Python` · `Flask` · `MongoDB Atlas` · `RAG` · `Groq`
+
+**[Neo4j Modular Decomposition Plugin](https://github.com/FadyIbenHabel/neo4j-md-plugin)**  
+A Java plugin that adds graph modular decomposition to Neo4j through a callable procedure, using a linear-time algorithm.  
+`Java` · `Neo4j` · `Graph Algorithms`
+
+### What I work with
+
+- **AI:** LLM applications, RAG, agentic workflows, embeddings, evaluation, NLP
+- **Languages:** Python, TypeScript / JavaScript, SQL, Java
+- **Engineering:** FastAPI, Flask, React, MongoDB, Neo4j, AWS, Docker, Git
+
+### Background
+
+M.Sc. in Data Science from **Université Claude Bernard Lyon 1**. My industry experience includes R&D on AI-assisted patent search, enterprise document retrieval, and evaluation of LLM-based systems.
+
+I care about building systems that are not just impressive in a demo, but **understandable, testable, and useful**.
+
+---
+
+**Want to discuss applied AI, an interesting engineering problem, or a collaboration?**  
+[Connect on LinkedIn](https://www.linkedin.com/in/fady-iben-habel/) or [send me an email](mailto:fadyibenhabel@gmail.com).
